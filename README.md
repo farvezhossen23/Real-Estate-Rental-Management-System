@@ -109,7 +109,7 @@ $ npm run dev
 
 ### Author
 
-[Sonam Rinzin Gurung](https://www.linkedin.com/in/sonam-rinzin-gurung-59060b211/)
+[Farvez Hossain)
 
 ### Repository
 
